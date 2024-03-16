@@ -1,4 +1,4 @@
-package org.mifos.mobilewallet.mifospay.ui
+package org.mifos.mobilewallet.mifospay.designsystem.component
 
 import android.graphics.Bitmap
 import androidx.compose.foundation.Image
@@ -10,7 +10,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.layout.ContentScale
-import org.mifos.mobilewallet.mifospay.designsystem.component.MifosTextUserImage
 
 /**
  * @author pratyush
